@@ -13,5 +13,5 @@ int main(){
     std::cout << std::setfill('0') << std::setw(2) << hours << ":" << std::setw(2) << minutes << ":" << std::setw(2) << seconds << "\n";
 
     return 0;
-
+    // Добавлен комментарий для коммита
 }
